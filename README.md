@@ -3,7 +3,8 @@
 
 The project contains technical documentation for the management and monitoring of pumps for cooling the data center. The pumps are used to supply water to the cooling units located in the rooms with the servers. The plant consists of a total of six pumps, which are divided into two groups, each of which operates 12 hours a day. The pump station facility consists of three parts: a room with pumps (pump room), a room with a distribution cabinet (MCC room), and a corridor.
 
-:point_right: :point_right: check this link! 
+:point_right: :point_right: [Check this link to see project in EPLAN](https://github.com/mateax/data-center-cooling-EPLAN/blob/main/Data_Center_Cooling.pdf)
+
 
 The project contains:
 #### 1. Task project description
